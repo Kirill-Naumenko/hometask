@@ -1,2 +1,0 @@
-# hometask
-.Net tasks
